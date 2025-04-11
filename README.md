@@ -32,7 +32,6 @@ I’m a curious and detail-oriented data analyst with hands-on experience in:
 - 📊 **Customer Churn Prediction** – Built a model to identify at-risk telecom customers  
 - 📈 **Sentiment Analysis** – Analyzed customer feedback using NLP  
 - 🏦 **Finance Analytics Dashboard** – Visualized financial KPIs in Power BI  
-- 🧠 **Medical Image Annotation** – Contributed to healthcare data annotation project
 
 ---
 
