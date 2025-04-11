@@ -14,7 +14,7 @@ I’m a curious and detail-oriented data analyst with hands-on experience in:
 - 📌 Exploratory Data Analysis (EDA)  
 - 📌 Dashboard Creation using Power BI  
 - 📌 Predictive Modeling (Churn, Sentiment Analysis)  
-- 📌 Domain Knowledge: Telecom & Finance
+- 📌 Domain Knowledge: **Telecom & Finance**
 
 ---
 
@@ -46,8 +46,9 @@ I’m a curious and detail-oriented data analyst with hands-on experience in:
 
 ### 📫 Let's Connect!
 
--  https://linkedin.com/in/your-profile-link)](https://www.linkedin.com/in/rajesh-sekar-data-analyst
-- sekarsrajesh7@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-sekar-data-analyst)  
+- 📧 sekarsrajesh7@gmail.com
+
 
 ---
 
