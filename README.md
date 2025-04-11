@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hey there! 👋 I'm Rajesh
 
-<!--
-**Rajeshsekar1504/Rajeshsekar1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | SQL • Python • Power BI • Excel  
+📊 Passionate about turning raw data into meaningful insights  
+📍 Based in India | Open to opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I’m a curious and detail-oriented data analyst with hands-on experience in:
+
+- 📌 Data Cleaning & Preprocessing  
+- 📌 Exploratory Data Analysis (EDA)  
+- 📌 Dashboard Creation using Power BI  
+- 📌 Predictive Modeling (Churn, Sentiment Analysis)  
+- 📌 Domain Knowledge: Telecom & Finance
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages:** Python (Pandas, NumPy, Matplotlib), SQL  
+- **Tools:** Power BI, Excel, Jupyter Notebook  
+- **Database:** MySQL, PostgreSQL  
+- **Other:** Git, VS Code, PyCharm
+
+---
+
+### 🔥 Projects
+
+- 📊 **Customer Churn Prediction** – Built a model to identify at-risk telecom customers  
+- 📈 **Sentiment Analysis** – Analyzed customer feedback using NLP  
+- 🏦 **Finance Analytics Dashboard** – Visualized financial KPIs in Power BI  
+- 🧠 **Medical Image Annotation** – Contributed to healthcare data annotation project
+
+---
+
+### 📚 Currently Learning
+
+- 📘 Advanced Power BI (DAX, Dataflows)  
+- 🤖 Machine Learning for Business  
+- 📉 Forecasting Techniques
+
+---
+
+### 📫 Let's Connect!
+
+-  https://linkedin.com/in/your-profile-link)](https://www.linkedin.com/in/rajesh-sekar-data-analyst
+- sekarsrajesh7@gmail.com
+
+---
+
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshR11&show_icons=true&theme=radical)
+
+---
+
+_“Data is the new oil. I refine it to power smart decisions.”_ 🚀
+
