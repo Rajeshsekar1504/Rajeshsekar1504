@@ -1,59 +1,46 @@
-## Hey there! 👋 I'm Rajesh
+# 👋 Hi, I'm Rajesh  
 
-🎯 **Aspiring Data Analyst** | SQL • Python • Power BI • Excel  
-📊 Passionate about turning raw data into meaningful insights  
-📍 Based in India | Open to opportunities
-
----
-
-### 🚀 About Me
-
-I’m a curious and detail-oriented data analyst with hands-on experience in:
-
-- 📌 Data Cleaning & Preprocessing  
-- 📌 Exploratory Data Analysis (EDA)  
-- 📌 Dashboard Creation using Power BI  
-- 📌 Predictive Modeling (Churn, Sentiment Analysis)  
-- 📌 Domain Knowledge: **Telecom & Finance**
+🎯 **Aspiring Data Analyst & Generative AI Enthusiast**  
+📊 Turning raw data into insights | 🤖 Building AI-powered solutions  
 
 ---
 
-### 🧰 Tech Stack
-
-- **Languages:** Python (Pandas, NumPy, Matplotlib), SQL  
-- **Tools:** Power BI, Excel, Jupyter Notebook  
-- **Database:** MySQL, PostgreSQL  
-- **Other:** Git, VS Code, PyCharm
-
----
-
-### 🔥 Projects
-
-- 📊 **Customer Churn Prediction** – Built a model to identify at-risk telecom customers  
-- 📈 **Sentiment Analysis** – Analyzed customer feedback using NLP  
-- 🏦 **Finance Analytics Dashboard** – Visualized financial KPIs in Power BI  
+## 🚀 About Me
+I’m a detail-oriented professional with **3+ years of experience** in:
+- 📌 **Data Analytics**: Data cleaning, wrangling, ETL pipelines, dashboard creation (Power BI, Excel)  
+- 📌 **Generative AI**: LangChain, RAG pipelines, Large Language Models (LLMs), Hugging Face  
+- 📌 **Cloud & Automation**: AWS (EC2, S3, Lambda), workflow automation, data pipelines  
 
 ---
 
-### 📚 Currently Learning
+## 🛠️ Tech Stack
+**Languages**: Python (Pandas, NumPy, Matplotlib), SQL  
+**Frameworks & Tools**: LangChain, Hugging Face, FAISS, Power BI, Excel, Jupyter Notebook  
+**Databases**: MySQL, PostgreSQL  
+**Cloud**: AWS (EC2, S3, Lambda, IAM)  
+**Other**: Git, VS Code, PyCharm, Label Studio  
 
+---
+
+## 🔥 Featured Projects
+- 🤖 **MediChat-Pro** – AI-powered chatbot with RAG pipeline (LangChain + AWS EC2 + S3)  
+- 🛒 **Verizon RAG Chatbot** – LangChain-based Retrieval Augmented Generation chatbot for retail website  
+- 🏦 **Finance Analytics Dashboard** – Built with Power BI, automated ETL using AWS S3, improved reporting speed by 30%  
+- 📈 **Sentiment Analysis** – NLP-based project analyzing customer feedback  
+
+---
+
+## 📚 Currently Learning
 - 📘 Advanced Power BI (DAX, Dataflows)  
-- 🤖 Machine Learning for Business  
-- 📉 Forecasting Techniques
+- 🤖 Machine Learning & Generative AI Applications  
+- 📉 Forecasting & Predictive Analytics  
 
 ---
 
-### 📫 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-sekar-data-analyst)  
-- 📧 sekarsrajesh7@gmail.com
-
-
----
-
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajeshR11&show_icons=true&theme=radical)
+## 📫 Let’s Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-sekar-data-analyst/)  
+- 💻 [GitHub](https://github.com/Rajeshsekar1504)  
+- 📧 sekarsrajesh7@gmail.com  
 
 ---
-
-_“Data is the new oil. I refine it to power smart decisions.”_ 🚀
-
+⭐️ *Always curious to learn, build, and collaborate on Data + AI projects!*
